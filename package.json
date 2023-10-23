@@ -1,0 +1,16 @@
+{
+  "name": "wallet-words",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ethersproject/hdnode": "^5.7.0",
+    "bip39": "^3.1.0",
+    "ethers": "^6.8.0"
+  }
+}
